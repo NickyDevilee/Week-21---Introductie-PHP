@@ -1,0 +1,40 @@
+/*Nicky Devilee | 99047338
+Bol4 applicatieontwikkelaar
+Blok 2
+Week 21 - Introductie PHP*/
+
+.pagina{
+    width: 1450px;
+    margin: auto;
+}
+
+/*instellingen voor het navigatie menu.*/
+.menu {
+    background-color: #000000;
+    overflow: hidden;
+}
+
+.menu a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/*instellingen wanneer de muis over het menu hovert*/
+.menu a:hover {
+    background-color: lightgrey;
+    color: black;
+}
+
+#footer{
+    width: 100%;
+    background-color: #222931;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
